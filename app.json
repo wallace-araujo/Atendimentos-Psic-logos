@@ -1,0 +1,17 @@
+{
+  "name": "Minerva",
+  "displayName": "Minerva",
+  "expo": {
+    "name": "Minerva",
+    "slug": "Minerva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/minerva.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.wallace.araujo.minerva"
+    }
+  }
+}
